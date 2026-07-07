@@ -1,4 +1,4 @@
-## Finance Tools
+# Finance Tools
 
 A collection of Python projects focused on investing, portfolio analysis, and financial modeling.
 
