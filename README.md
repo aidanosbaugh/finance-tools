@@ -5,7 +5,7 @@ A collection of Python projects focused on investing, portfolio analysis, and fi
 ## Current Projects
 
 - Compound Interest Calculator
-- Portfolio Analyzer
+- Simple Portfolio
 
 ## Skills Practiced
 
