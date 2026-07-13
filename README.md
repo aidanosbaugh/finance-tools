@@ -6,6 +6,10 @@ A collection of Python projects focused on investing, portfolio analysis, and fi
 
 - Compound Interest Calculator
 - Simple Portfolio
+- Portfolio Version 1
+- Portfolio Version 2
+- Portfolio (CSV-Driven Data)
+- Portfolio (YFinance Data)
 
 ## Skills Practiced
 
@@ -14,6 +18,3 @@ A collection of Python projects focused on investing, portfolio analysis, and fi
 - Financial calculations
 - Data structures
 
-## Future Goals
-
-Build an AI-powered equity research platform.
